@@ -29,8 +29,8 @@ The project utilizes the following technologies:
 
 To get started with the project, follow these steps:
 
-1. Clone the project repository: `git clone https://github.com/your-username/project-repo.git`
-2. Install the required dependencies: `pip install -r requirements.txt`
+1. Clone the project repository
+2. Install the required dependencies
 3. Obtain a YouTube Data API key from the Google Developers Console.
 4. Update the API key in the code to authenticate the API requests.
 5. Run the Jupyter Notebooks in the `notebooks/` directory sequentially to retrieve the data, clean it, and perform the analysis.
